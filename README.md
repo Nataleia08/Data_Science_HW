@@ -1,1 +1,1 @@
-# DS_HW_1
+# Data Science homework
